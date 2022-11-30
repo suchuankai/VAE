@@ -1,0 +1,5 @@
+本地時間：Tue Nov 29 04:24:48 2022
+epochs: 100
+batch size: 32
+training dataset: ./data/dataset4-1.csv
+testing dataset: ./data/dataset4-1.csv
